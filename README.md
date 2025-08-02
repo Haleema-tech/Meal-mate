@@ -16,11 +16,10 @@ Meal-mate is a simple and user-friendly meal planning application designed to he
 
 ## 🛠️ Built With
 
-- **Java**
+- **Python**
 - **Servlets & JSP**
 - **HTML/CSS**
 - **MySQL**
-- **Apache Tomcat** (for local deployment)
 
 ---
 
