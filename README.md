@@ -21,15 +21,7 @@ Meal-mate is a simple and user-friendly meal planning application designed to he
 - **HTML/CSS**
 - **MySQL**
 
----
 
-## 📷 Screenshots
-
-> *(Add screenshots here if available to show UI – optional)*
-
----
-
-## 🔧 Getting Started
 
 To run this project locally:
 
